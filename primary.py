@@ -1,5 +1,11 @@
 print('welcome to primary school')
 
+
+books =['maths','science','social','english']
+for i in range(0,len(books)):
+     print(i)
+
+
 print('1st class students =100')
 print('2nd  class students =100')
 print('3rd class students =100')
