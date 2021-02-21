@@ -9,7 +9,7 @@ print('5th class students =100')
 
 print('6th class students =100')
 
-print('6th class students =100')
+print('7th class students =100')
 
 
 
