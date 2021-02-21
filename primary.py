@@ -13,3 +13,4 @@ print('7th class students =100')
 
 print('8th class students =100')
 
+print('9th class students =100')
