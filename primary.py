@@ -11,7 +11,7 @@ print('2nd  class students =100')
 print('3rd class students =100')
 print('4th class students =100')
 
-print('5th class students =100')
+print('5th class students =100000000000')
 
 print('6th class students =100')
 
